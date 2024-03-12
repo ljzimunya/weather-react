@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Search />
+      <a href="https://github.com/ljzimunya">Github</a>
     </div>
   );
 }
